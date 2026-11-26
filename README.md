@@ -8,6 +8,7 @@
 
 - [`SKILL.md`](SKILL.md)：话术操作系统——5 步闭环、3 个套用模板、关键心法
 - [`references/framework-5step.md`](references/framework-5step.md)：万能框架（5 步闭环）全文
+- [`references/speech-patterns.md`](references/speech-patterns.md)：说话方式语料归纳（开场/转场/排比/自嘲/收尾/劝买，含引用分级）
 - [`examples/jiangjia-jiqi-shou.md`](examples/jiangjia-jiqi-shou.md)：范例 · 桁架机械手版
 - [`examples/xiezuo-jiqiren.md`](examples/xiezuo-jiqiren.md)：范例 · 协作机器人版
 
